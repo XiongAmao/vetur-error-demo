@@ -11,9 +11,5 @@
   "vetur.format.styleInitialIndent": true,
   "vetur.format.scriptInitialIndent": true,
   "vetur.validation.template": true,
-  "vetur.experimental.templateInterpolationService": false,
-  "prettier.singleQuote": true,
-  "prettier.semi": false,
-  "prettier.trailingComma": "none",
-  "prettier.arrowParens": "always",
+  "vetur.experimental.templateInterpolationService": false
 }
