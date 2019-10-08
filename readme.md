@@ -44,4 +44,4 @@ my settings.json:
 
 all extensions: 
 
-![all extensions](https://raw.githubusercontent.com/XiongAmao/vetur-error-demo/master/imgs/2.jpg)
+![all extensions](https://raw.githubusercontent.com/XiongAmao/vetur-error-demo/master/imgs/2.png)
