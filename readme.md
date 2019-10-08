@@ -1,3 +1,4 @@
+## info
 
 版本: 1.38.1 (user setup)
 
@@ -36,8 +37,11 @@ my settings.json:
 }
 ```
 
-screenshot
+## screenshot
+
 
 ![editor](https://raw.githubusercontent.com/XiongAmao/vetur-error-demo/master/imgs/1.jpg)
+
+all extensions: 
 
 ![all extensions](https://raw.githubusercontent.com/XiongAmao/vetur-error-demo/master/imgs/2.jpg)
